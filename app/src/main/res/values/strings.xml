@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Transición de Strings</string>
+    <string name="action_settings">Configuraciones</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">HOLA PROFESOR SOY SAUL DE 7B</string>
+    <string name="hello_second_fragment"> HOLA OTRA VEZ PROFESOR SALUDOS DESDE LA ESTRELLA</string>
+</resources>
